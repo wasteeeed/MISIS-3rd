@@ -120,4 +120,6 @@ def scenario_03() -> None:
 
 
 if __name__ == "__main__":
+    scenario_01()
+    scenario_02()
     scenario_03()
